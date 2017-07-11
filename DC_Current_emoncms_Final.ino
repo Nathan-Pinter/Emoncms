@@ -22,7 +22,7 @@ char server[] = "emoncms.org"; // name address for emoncms.org
 // IPAddress server(213, 138, 101, 177); // IP for emoncms.org (No DNS)
 // IPAddress server(192, 168, 10, 31); // IP for emonpi downstairs
 
-String apikey = "8c8ef7bcb5ea05ea034874984d40914b"; // api write key for emoncms.org
+String apikey = "**********"; // api write key for emoncms.org
 // String apikey = "1abacdf5bb44c8d6d6813b844c5388cc"; // api write key for Emonpi
 int node = 1; // if 0, not used
 
